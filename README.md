@@ -4,7 +4,7 @@ praveshan
 I am N Sahitha Reddy from S1 of CSE specilization in AI at Amrita Vishwa Vidyapeetam, Amritapuri.
 I am from Kadapa, AndraPradesh.
 I like to think myself as a curious engineer in the making , I am  a sports enthusiast who likes to immerse in reading books and watching movies.
-i am a neophyte in coding but will to learn as much as can and I am hoping amFOSS will be a part fo my learning journey.
+i am a neophyte in coding but will to learn as much as can and I am hoping amFOSS will be a part fo my future endevours.
 ## Why should we choose you?
 I bring a blend of curiosity, persistence, and a willingness to learn. As a first-year CSE (AI) student, I am building a strong foundation in programming, problem-solving, and open-source collaboration. I thrive in environments where I can explore, experiment, and contribute, and I approach challenges with analytical thinking and creativity.
 
