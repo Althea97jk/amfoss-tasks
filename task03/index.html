@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfect Circle Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Draw a Perfect Circle</h1>
+  <p id="quote" >Every artist tries.
+  <br>
+                Every mathematician doubts.
+                <br>
+                Can you summon the perfect circle..?</p>
+
+  <!-- Scoreboard -->
+  <div id="scoreboard">
+    <p>Current Score: <span id="current-score">0</span></p>
+    <p>Best Score: <span id="best-score">0</span></p>
+  </div>
+  
+<p id="message"></p>
+
+
+  <!-- Message area for errors -->
+  <p id="message">Oops! your circle wandered off,the red dot is outside.</p>
+  <div id="startScreen">
+  <button id="startBtn">Start Game</button>
+  </div>
+  <!-- Canvas where the user draws -->
+  <canvas id="gameCanvas" 
+  canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;></canvas>
+
+  <!-- Buttons -->
+  <div id="controls">
+    <button id="clear-btn">Clear</button>
+    <button id="play-btn">Play Again</button>
+    <button id="sound-btn">Toggle Sound</button>
+  </div>
+
+  <!-- Drawing sound -->
+  <audio id="draw-sound" src="mysound.mp3"></audio>
+
+  <!-- Link JS -->
+  <script src="script.js"></script>
+</body>
+</html>
+
+ 
+
