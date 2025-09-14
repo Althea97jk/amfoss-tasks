@@ -1,2 +1,2 @@
-I installed liunix successfully.
+I installed linuix successfully.
 By dual booting..
